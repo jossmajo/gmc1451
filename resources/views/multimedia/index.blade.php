@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,5 +8,7 @@
 </head>
 <body>
     <h1>SOY EL INDEX</h1>
+    <h2>SOY DEL GRUPO GMC1451</h2>
+    <p>BIENVENIDO AL GRUPO DE MULTIMEDIA</p>
 </body>
 </html>
